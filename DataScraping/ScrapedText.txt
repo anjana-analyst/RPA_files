@@ -1,0 +1,101 @@
+﻿Blog Titles
+Get More Automation Value With AI: Your AI Playbook (Part 2)
+IT Infrastructure's Surprising New Star: The Rise of the Citizen Developer
+Is Your Automation Program Ready For AI? Your AI Playbook (Part 1)
+Enterprise-Scale Management and Governance of Your Automation Program
+Upgrades for All User Experiences from Everyday Business Users to Professional Developers
+UiPath Platform: 21.4 Release
+Rapid Expansion of Automation Cloud™
+A New Chapter in Process Discovery: Reveal Your Most Impactful Automation Potential
+Automation Transcends Administrations: U.S. President’s FY22 Budget Proposal
+The Difference Between Personal & Business Workflow Automations (and Why You Need Both)
+What to Consider Before Automating Your CNC Machines
+What an Automation Partner Ecosystem Means & How It Helps You Achieve Success
+Supporting OxygenforIndia
+Inspiring Diversity in Tech Through Automation Education with UiPath & EY Foundation
+Top 5 Reasons Partnering With IT Early Drives Automation Success
+How Investment Banks Are Improving Employee Experience with Automation
+4 Key Takeaways From UiPath Live: The Fully Automated Enterprise™
+How Three Enterprise Leaders Used High-Leverage Opportunities To Dramatically Change Their Businesses
+"UiPath Products Have a New Look: Introducing Apollo, Our New Design System"
+"With Cloud Elements, UiPath Accelerates API-based Automation Offerings and Increases Flexibility for Customers "
+UiPath 2021.3 Monthly Update
+"UiPath Named a Leader in Forrester Wave™ for Robotic Process Automation, Q1 2021"
+How to Achieve Business-IT Alignment for Automation Success
+How SAP® Customers Can Become Fully Automated Enterprises
+The Opportunity Cost of Not Automating
+20 Best CIO Conferences In 2021
+Evolution of the Future of Work: U.S. Edition
+"Should You Automate Your Processes ""As-Is"" or Standardize First?"
+UiPath 2021.2 Monthly Update
+Automation Health: Building Resilient Automations
+Your Automation Dream Team Needs RPA Developers and Data Scientists
+Key Trends Shaping the Use of AI in Banking and Financial Services
+The Best of CEO Daniel Dines at Reboot Work Festival
+Automation in 2020: Revisiting Your Favorite Blog Posts of the Year
+Combine Business Intelligence and Process Mining for Data-Driven Decision Making
+How to Advocate for Automation to Your CFO (Part Three)
+What You Need to Know About the Age of Intelligent Automation
+UiPath 2021.1 Monthly Update
+6 Ways Automation Can Help with COVID Vaccination Rollouts
+4 Key Takeaways from the Reboot Work Festival
+European Economic Recovery with Software Automation
+UiPath Marketplace: Enhanced for the Enterprise
+Top 25 Resources of 2020 for Making Enterprise AI a Reality
+New IDC Research: Benefits of a People-First Approach to RPA
+How to Evangelize RPA Within Your Organization
+What a Simple Office Toy Taught Me about Humans
+Recommendations for Emerging Tech Companies & UiPath Automation Award Winners
+The Fully Automated Enterprise Is Here (and This Is What It Looks Like)
+The 4 Pillars of a Fully Automated Enterprise
+" Announcing General Availability of UiPath Apps"
+Overcoming the Productivity Paradox With RPA
+Five Things You Don’t Want to Miss at the Reboot Work Festival
+How to Achieve a Smooth Order-to-Cash Process with Process Mining
+How to Create a Team of Champions for Your Automation CoE
+A Biology Student and Data Scientist on the Future of RPA
+How Audit Companies Can Speed up Services with Process Mining
+Tech Inclusion Best Practices from Byte Back's RPA Pilot Program
+The History of AI: From Futuristic Fiction to the Future of Enterprise
+Survey: Employee Success is Becoming Increasingly Dependent on Automation Skills
+The Federal Report Card is Out and RPA is on the Honor Roll
+Advancing the Automation Platform
+UiPath 2020 LTS Release Series: Empowering the Fully Automated Enterprise™
+UiPath 2020: Long-Term Support (LTS) Release
+20.10 Release: What's New With Automation Cloud™
+Unlock Automation Impact at Scale with ‘a Robot for Every Person’
+How I Optimized My Morning Routine with Process Mining and Automation
+"Automation: Real World Adventures Featuring Marilene Schofield, World Fuel Services"
+Using Process Mining and Robotic Process Automation to Green Your Business
+Improving Data Privacy Using Process Mining
+Everything You Need to Know about Conformance Checking
+"Six Predictions for RPA, AI, and Automation in 2021"
+Robotics for Test Automation: The UiPath Test Suite Backstory
+How to Create an RPA Training Strategy to Upskill Your Workforce
+How to Advocate for Automation to Your CFO (Part Two)
+How Enterprise Automation Makes Managing Remote Teams Easier
+Automation and Cybersecurity: Complete Protection for Customers
+Top 10 Examples of Successful Data Analysis
+5 Interesting Things from the 2020 State of RPA Developer Report
+Fire Yourself as a Head of RPA - Hire Yourself Back as a Chief Automation Officer
+Combining OCR With AI and RPA for Advanced Data Analysis
+UiPath 2020.9 Monthly Update
+"Process Automation in SAP S/4HANA® – Hopes, Drivers, and Action"
+"Need Company-Wide Automation? Create Your Own Citizen Developers "
+RPA is to ERP What 3D Printing is to Manufacturing
+Understanding Citizen Developers: Your Secret Weapon in Scaling Automation
+Why RPA is an Ideal Technology to Integrate Legacy Systems
+"How to See Value from Your Intelligent Automation Project, Fast"
+Introducing the Industry’s First Robot-Powered Low-Code App Platform
+How to Advocate for Automation to Your CFO (Part One)
+The RPA Opportunity for Lean Six Sigma Practitioners
+Embarking on a Digital Upskilling Journey to Drive Change
+UiPath 2020.8 Monthly Update
+Easily Retrain AI Starter Models for More Accurate Results
+Accelerating Digital Transformation: Introducing the Automation Flywheel
+Reaching Full Automation Potential - Automation Operating Model (Part 3)
+New Study: Impact of COVID-19 on the Future of Work and Automation
+Three Reasons Your Employees Can’t Do Their Best Work
+Automation Isn’t Enough—You Need Hyperautomation
+"4 Key Takeaways from the UiPath Live: It’s Time to Automate Event   "
+Using Downtime to Reimagine Your Recruiting and Onboarding Processes
